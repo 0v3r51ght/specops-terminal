@@ -217,7 +217,7 @@ The current build contains **93 mapped tool entries** and **205 mapped actions**
 | **dnsrecon** | DNS enumeration. | Standard enum; Zone transfer; Bruteforce |
 | **dnsenum** | DNS and subdomain enum. | Standard; Wordlist |
 | **amass** | Subdomain/intel enumeration. | Passive enum; Active enum; Intel |
-| **theHarvester** | Email, host and subdomain discovery. | DuckDuckGo; Bing; DNSDumpster; Custom source |
+| **theHarvester** | Full scan. |
 | **enum4linux-ng** | SMB/Windows enumeration. | Full enum; Shares/users |
 | **smbmap** | SMB share permissions. | Guest enum; Credentialed |
 | **nbtscan** | NetBIOS scanning. | Scan range |
